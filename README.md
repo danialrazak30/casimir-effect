@@ -32,5 +32,5 @@ visualising the attractive 1/d^2 force.
 
 ## Files
 
-- casimireffect.nb- full Mathematica notebook
-- casimireffect.pdf exported PDF version
+- casimireffect.nb - full Mathematica notebook
+- casimireffect.pdf - exported PDF version
