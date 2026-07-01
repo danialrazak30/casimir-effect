@@ -6,9 +6,9 @@ using a simplified 1+1D Toy Model using Mathematica
 ## Overview
 
 The Casimir effect is a measurable quantum mechanical force arising from the zero-point energy of the vacuum. 
-This notebook explores the problem from : 
+This notebook explores the problem from: 
 starting with a divergent sum, introducing a regularisation, deriving a closed-form vacuum energy, 
-and arriving at a measurable, finite force between two plates. The same logic is used to find the Casimir Force.
+and arriving at a measurable, finite force between two plates. 
 
 ## Contents
 
@@ -27,7 +27,7 @@ visualising the attractive 1/d^2 force.
 ## Tools Used
 
 - Sum, Series, SeriesCoefficient, Limit, D for symbolic computation
-- NestList, Table, N for precision controls of numericals
+- NestList, Table, N for precision controls for numerical computations
 - ListLogLinearPlot, LogLogPlot, Plot for plotting
 
 ## Files
