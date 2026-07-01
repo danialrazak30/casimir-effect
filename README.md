@@ -19,4 +19,4 @@ and arriving at a measurable, finite force between two plates. The same logic is
 3. Vacuum Energy- Deriving a closed form for E(d,a) through symbolic summation and differentiation,
 the extracting the finite part through series expansion.
 
-4. The Casimir Force- computing F(d)=-\frac{1}{12}
+4. The Casimir Force- computing $F(d)=-\frac{1}{2}
