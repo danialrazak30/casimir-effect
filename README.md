@@ -28,8 +28,9 @@ visualising the attractive 1/d^2 force.
 
 - Sum, Series, SeriesCoefficient, Limit, D for symbolic computation
 - NestList, Table, N for precision controls of numericals
--ListLogLinearPlot, LogLogPlot, Plot for plotting
+- ListLogLinearPlot, LogLogPlot, Plot for plotting
 
 ## Files
 
-
+- casimireffect.nb- full Mathematica notebook
+- casimireffect.pdf exported PDF version
